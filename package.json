@@ -1,0 +1,22 @@
+{
+  "name": "gulpsassnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDevt/gulpSassNpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickDevt/gulpSassNpm/issues"
+  },
+  "homepage": "https://github.com/NickDevt/gulpSassNpm#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
